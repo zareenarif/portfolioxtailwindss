@@ -7,7 +7,8 @@ import { FaGithub } from "react-icons/fa";
 import { FaFacebookSquare } from "react-icons/fa";
 import { SiInstagram } from "react-icons/si";
 import { FaTwitter } from "react-icons/fa";
-import { Skills } from '@/components/skills';
+import { Skills } from './skills';
+
 
 
 
